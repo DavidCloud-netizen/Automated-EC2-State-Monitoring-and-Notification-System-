@@ -1,7 +1,7 @@
 # Automated-EC2-State-Monitoring-and-Notification-System-
 The purpose of this project is to create a serverless application that monitors the states of AWS EC2 instances and s3 buckets. 
 ## Objective  
-The purpose of this project is to create a serverless application that monitors the states of AWS EC2 instances and sends timely email notifications to stakeholders. By automating instance state checks, the system improves operational efficiency and ensures critical updates are delivered every 12 hours.  
+The purpose of this project is to create a serverless application that monitors the states of AWS EC2 instances and S3 buckets and sends timely email notifications to stakeholders. By automating instance state checks, the system improves operational efficiency and ensures critical updates are delivered every 12 hours.  
 
 ## Features  
 - **Automated Monitoring**: Periodically checks the state of EC2 instances every 12 hours.  
@@ -42,7 +42,7 @@ The purpose of this project is to create a serverless application that monitors 
    - Enable logging to monitor the function's execution and troubleshoot issues.  
 
 ## Key Achievements  
-- Automated state monitoring of EC2 instances, reducing manual effort and human error.  
+- Automated state monitoring of EC2 instances and s3 buckets, reducing manual effort and human error.  
 - Ensured reliable email notifications for real-time awareness of instance statuses.  
 - Improved system transparency and operational responsiveness with serverless design.  
 
